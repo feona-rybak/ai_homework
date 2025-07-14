@@ -1,0 +1,4 @@
+enum SearchFilter {
+  all,
+  name,
+}
